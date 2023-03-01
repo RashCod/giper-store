@@ -1,14 +1,13 @@
 @import url("./resetstyle.css");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
 
-body{
-  background: #E5E5E5;
+body {
+  background: #e5e5e5;
 }
 
 .App {
   text-align: center;
   font-family: "Roboto", sans-serif;
-  
 }
 
 .container {

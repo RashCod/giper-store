@@ -11,6 +11,7 @@ export const RecommendationsItem = ({
   id,
   reviews,
 }) => {
+
   return (
     <div className={styles.product}>
       <img className={styles.img} src={img} alt="product" />

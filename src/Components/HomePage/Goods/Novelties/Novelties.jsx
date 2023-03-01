@@ -15,7 +15,7 @@ export const Novelties = () => {
             <div className={styles.discountBlock}>
            {
             
-            productJson.map((obj, i) => obj.novel ? <NoveltiesItem  key={obj.id} {...obj}/> : '')
+            productJson.filter(obj => obj.name.toUpperCase().includes(searchValue.toUpperCase())).map((obj, i) => obj.novel ? <NoveltiesItem  key={obj.id} {...obj}/> : '')
             
            }
             </div>

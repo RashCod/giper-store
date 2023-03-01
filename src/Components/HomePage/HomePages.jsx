@@ -3,8 +3,8 @@ import { Baner } from "./Baner/Baner";
 import { Goods } from "./Goods/Goods";
 
 export const HomePages = () => {
- 
-  return (
+
+  return (    
     <main>
       <Baner />
        <Goods />
