@@ -1,0 +1,53 @@
+.section{
+    padding-bottom:50px ;
+}
+
+.title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 35px;
+  color: #000000;
+  text-align: start;
+  margin-bottom: 15px;
+}
+
+.text {
+    position: relative;
+    display: block;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 126.19%;
+  color: #000000;
+  text-align: start;
+}
+
+.textOpacity {
+  position: absolute;
+  top: 20px;
+  opacity: 0;
+}
+
+.textOpacity.active {
+    top: 53px;
+    opacity: 1;
+
+}
+
+.button {
+    margin-top: 8px;
+    text-align: start;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;  
+    background: linear-gradient(96.78deg, #F64D4D -57.09%, #4D5EF6 101.17%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    cursor: pointer;
+}
+
+.button svg {
+    margin-left: 10px;
+}

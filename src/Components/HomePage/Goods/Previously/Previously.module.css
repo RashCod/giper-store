@@ -1,0 +1,69 @@
+.previously {
+  background: rgba(184, 99, 250, 0.12);
+
+  
+}
+
+.title {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 35px;
+  color: #000000;
+  text-align: start;
+  margin-bottom: 40px;
+  padding-top: 27px;
+}
+.itemBlock {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 18px;
+  grid-row-gap: 0px;
+}
+
+.cursor{
+  display: block;
+   margin-bottom: 55px;
+
+}
+
+.item {
+  background: #ffffff;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  padding: 35px 14px 35px 14px;
+  cursor: pointer;
+
+}
+
+.imgBlock{
+
+}
+
+
+
+
+
+.infoBlock {
+  margin-left: 20px;
+}
+
+.text {
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 124.19%;
+  color: #000000;
+  text-align: start;
+}
+
+.price {
+  display: block;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+  text-align: start;
+  margin-top: 14px;
+}

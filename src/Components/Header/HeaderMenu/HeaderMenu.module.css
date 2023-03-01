@@ -1,0 +1,49 @@
+.nav {
+  position: absolute;
+  z-index: 2;
+  background: #ffffff;
+  box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.12);
+  margin-top: 30px;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #ffffff;
+  background: linear-gradient(96.78deg, #f64d4d -57.09%, #4d5ef6 101.17%);
+  padding: 10px 80px;
+}
+
+.ulList {
+  padding: 15px 0px;
+}
+
+.item {
+  width: 85%;
+  margin-bottom: 14px;
+  text-align: start;
+  margin-left: 15%;
+}
+
+.item a {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+  cursor: pointer;
+}
+.item img {
+  margin-right: 12px;
+  display:inline-block;
+  width: 20px;
+  height: 15px;
+}
+
+.item a:hover {
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  color: #000000;
+}

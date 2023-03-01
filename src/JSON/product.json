@@ -1,0 +1,615 @@
+[
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 1,
+    "reviews": "5"
+  },
+  {
+    "name": "Hermes",
+    "img": "https://i.ibb.co/yR5NyvV/2.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 2,
+    "reviews": "5"
+  },
+  {
+    "name": "Adidas",
+    "img": "https://i.ibb.co/HT0d12X/3.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 3,
+    "reviews": "5"
+  },
+  {
+    "name": "Nike",
+    "img": "https://i.ibb.co/CM3CKBW/4.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 4,
+    "reviews": "5"
+  },
+  {
+    "name": "Rib",
+    "img": "https://i.ibb.co/LZtQghn/5.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 5,
+    "reviews": "5"
+  },
+  {
+    "name": "Lux",
+    "img": "https://i.ibb.co/0G53jdk/6.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 6,
+    "reviews": "5"
+  },
+  {
+    "name": "Polland",
+    "img": "https://i.ibb.co/93BhfpY/7.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 7,
+    "reviews": "5"
+  },
+  {
+    "name": "hiMan",
+    "img": "https://i.ibb.co/DVDJyty/8.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 8,
+    "reviews": "5"
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/W5SLdTw/9.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 9,
+    "reviews": "5"
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/3rG7Lj7/10.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 10,
+    "reviews": "5"
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/f4vv4rm/11.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 11,
+    "reviews": "5"
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/6W1V32L/12.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "salePrice": 1999,
+    "sale": 25,
+    "id": 12,
+    "reviews": "5"
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 13,
+    "reviews": "5"
+  },
+  {
+    "name": "Hermes",
+    "img": "https://i.ibb.co/yR5NyvV/2.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 14,
+    "reviews": "5"
+  },
+  {
+    "name": "Adidas",
+    "img": "https://i.ibb.co/HT0d12X/3.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 15,
+    "reviews": "5"
+  },
+  {
+    "name": "Nike",
+    "img": "https://i.ibb.co/CM3CKBW/4.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 16,
+    "reviews": "5"
+  },
+  {
+    "name": "Rib",
+    "img": "https://i.ibb.co/LZtQghn/5.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 17,
+    "reviews": "5"
+  },
+  {
+    "name": "Lux",
+    "img": "https://i.ibb.co/0G53jdk/6.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 18,
+    "reviews": "5"
+  },
+  {
+    "name": "Polland",
+    "img": "https://i.ibb.co/93BhfpY/7.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 19,
+    "reviews": "5"
+  },
+  {
+    "name": "hiMan",
+    "img": "https://i.ibb.co/DVDJyty/8.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 20,
+    "reviews": "5"
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/W5SLdTw/9.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 21,
+    "reviews": "5"
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/3rG7Lj7/10.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 22,
+    "reviews": "5"
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/f4vv4rm/11.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 23,
+    "reviews": "5"
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/6W1V32L/12.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "novel": true,
+    "id": 24,
+    "reviews": "5"
+  },
+
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 25,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 26,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 27,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 28,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 29,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 30,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 31,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 32,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 33,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 34,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 35,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 36,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 37,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 38,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 39,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 40,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 41,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 42,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 43,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 44,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 45,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 46,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 47,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 48,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 49,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 50,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 51,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 52,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 53,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 54,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 55,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 56,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 57,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 58,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 59,
+    "reviews": "5",
+    "recommendation": true
+  },
+  {
+    "name": "Marle",
+    "img": "https://i.ibb.co/Gn32LXv/discount1.png",
+    "ratings": "4.9",
+    "text": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+    "price": 3179,
+    "id": 60,
+    "reviews": "5",
+    "recommendation": true
+  }
+]
